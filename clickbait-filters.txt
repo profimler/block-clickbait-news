@@ -4,7 +4,7 @@
 ! Install uBlock: 
 ! 	Chrome: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
 ! 	Firefox: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-!	Edge: 
+!	  Edge: https://github.com/nikrolls/uBlock-Edge 
 100percentfedup.com/*
 enduringvision.com/*
 pakalertpress.com/*
@@ -59,22 +59,22 @@ sprotspickle.com/*
 christwire.org*
 liberalamerica.org/*
 theblaze.com/*
-http://chronicle.su/*
+chronicle.su/*
 libertytalk.fm/*
-http://thefreethoughtproject.com/*
-http://civictribune.com/*
-http://libertyunyielding.com/*
-http://libertyvideos.org/*
-http://clickhole.com/*
-http://www.theonion.com/*
-http://coasttocoastam.com/*
+thefreethoughtproject.com/*
+civictribune.com/*
+libertyunyielding.com/*
+libertyvideos.org/*
+clickhole.com/*
+theonion.com/*
+coasttocoastam.com/*
 libertymovementradio.com/*
-http://other98.com/*
-http://www.collective-evolution.com/*
-http://mediamass.net/*
-http://www.reporter.bz/*
-http://consciouslifenews.com/*
+other98.com/*
+collective-evolution.com/*
+mediamass.net/*
+reporter.bz/*
+consciouslifenews.com/*
 MegynKelly.us/*
 conservativeoutfitters.com/*
-http://thedailysheeple.com/*
-wideawakeamerica.com
+thedailysheeple.com/*
+wideawakeamerica.com/*
