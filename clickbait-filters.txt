@@ -1,4 +1,11 @@
-! Clickbait uBlock Origin List
+! Ad block filiter for "False, Misleading, Clickbait-y, and Satirical “News” Sources"
+! Progressive Bias Reduction Branch
+! 	Branch details:
+! 		Removed the following sites because I sometimes like the commentary there.
+!			dailykos.com/*
+!			alternet.org/*
+!			dissentmagazine.org/*
+!			filmsforaction.org/* 
 ! Based upon "False, Misleading, Clickbait-y, and Satirical “News” Sources" by Melissa Zimdars
 ! Found here: < https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/ >
 ! Install uBlock: 
@@ -29,7 +36,6 @@ aheadoftheherd.com/*
 ahtribune.com/*
 allnewspipeline.com
 Alt-Market.com/*
-alternet.org/*
 americanblog.com/*
 americanfreepress.net/*
 AmericanKabuki.blogspot.com/*
@@ -167,7 +173,6 @@ dailycurrant.com/*
 dailydiscord.com/*
 dailyheadlines.com/*
 dailyheadlines.net/*
-dailykos.com/*
 dailyleak.org/*
 dailynewsbin.com/*
 dailynewspolitic.com/*
@@ -206,7 +211,6 @@ disclose.tv/*
 disclosuremedia.net/*
 discoverthenetworks.org/*
 discovery.org/*
-dissentmagazine.org/*
 diversitychronicle.wordpress.com/*
 doctorhousingbubble.com/*
 DollarVigilante.com/*
@@ -260,7 +264,6 @@ fantasticword.com/*
 FarmWars.info/*
 federalistpress.com/*
 fellowshipoftheminds.com/*
-filmsforaction.org/*
 FinancialSense.com/*
 FinancialSurvivalNetwork.com/*
 firearmscoalition.org/*
