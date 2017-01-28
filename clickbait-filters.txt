@@ -6,6 +6,7 @@
 !			alternet.org/*
 !			dissentmagazine.org/*
 !			filmsforaction.org/* 
+!     jacobinmag.com/*
 ! Based upon "False, Misleading, Clickbait-y, and Satirical “News” Sources" by Melissa Zimdars
 ! Found here: < https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/ >
 ! Install uBlock: 
@@ -374,7 +375,6 @@ ITCCS.org/*
 ItMakesSenseBlog.com/*
 iwanttoexplore.com/*
 jackpineradicals.com/*
-jacobinmag.com/*
 jamesrgrangerjr.com/*
 jessescrossroadscafe.blogspot.com/*
 jesus-is-savior.com/*
